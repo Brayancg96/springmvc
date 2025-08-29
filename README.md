@@ -16,7 +16,7 @@
     <li>Comprender el flujo MVC: <em>Controller → Service → Repository → View</em>.</li>
     <li>Diferenciar entidades del dominio y <strong>DTOs</strong> para transporte de datos.</li>
     <li>Manejar el <code>HttpServletRequest</code> para leer headers, parámetros y atributos.</li>
-    <li>Crear endpoints REST (GET/POST/PUT/DELETE) y probarlos con <strong>Postman</strong>.</li>
+    <li>Crear endpoints REST (GET/POST) y probarlos con <strong>Postman</strong>.</li>
     <li>Renderizar vistas con <strong>Thymeleaf</strong> y enlazar datos con modelos.</li>
     <li>Usar anotaciones de Spring para vincular datos y configurar propiedades.</li>
   </ul>
